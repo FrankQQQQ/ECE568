@@ -1,0 +1,2 @@
+CACHE_LINE_OFFSET_BITS (inclusive): 0-?
+CACHE_LINE_INDEXING_BITS (inclusive): ?-?

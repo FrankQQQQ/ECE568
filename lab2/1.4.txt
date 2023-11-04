@@ -1,0 +1,2 @@
+L2_L3_THRESHOLD (in cycles): ?
+L3_DRAM_THRESHOLD (in cycles): ?

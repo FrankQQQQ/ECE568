@@ -1,0 +1,5 @@
+MEDIUM_L1_LATENCY (in cycles): ?
+MEDIUM_L2_LATENCY (in cycles): ?
+MEDIUM_L3_LATENCY (in cycles): ?
+MEDIUM_DRAM_LATENCY (in cycles): ?
+
